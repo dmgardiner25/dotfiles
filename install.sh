@@ -1,6 +1,6 @@
 #!/bin/bash
 
 git config --global core.editor vim
-git config --system user.name "Test Name"
+git config --global user.name "Test Name"
 
 touch /workspaces/test.txt
