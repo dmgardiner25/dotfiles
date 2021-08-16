@@ -1,3 +1,3 @@
-echo hey
+echo hello
 
 run-parts scripts
