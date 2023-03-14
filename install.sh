@@ -1,3 +1,3 @@
 echo hello
 
-echo "export DOTFILES_TEST=true" >> ~/.bashrc
+echo "export DOTFILES_TEST=dotfiles" >> ~/.bashrc
