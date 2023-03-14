@@ -1,3 +1,3 @@
 echo hello
 
-touch test.txt
+echo "export DOTFILES_TEST=true" >> ~/.bashrc
