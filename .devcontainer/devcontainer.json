@@ -1,5 +1,3 @@
 {
-    "remoteEnv": {
-        "DOTFILES_TEST": "remoteEnv"
-    }
+    "image": "mcr.microsoft.com/devcontainers/universal"
 }
